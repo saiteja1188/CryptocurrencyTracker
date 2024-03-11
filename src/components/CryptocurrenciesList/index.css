@@ -1,0 +1,49 @@
+/* Write your CSS code here */
+.crypto-heading {
+  color: #00e7ff;
+  font-family: roboto;
+  font-size: 36px;
+}
+
+.crypto-list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  height: 80%;
+}
+.crypto-img {
+  height: 200px;
+  width: 500px;
+}
+
+.crypto-list-view {
+  border: 2px solid #00e7ff;
+  width: 800px;
+}
+
+.crypto-header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #092e33;
+  padding-left: 32px;
+}
+.crypto-type {
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 24px;
+}
+.usd-euro-value-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 150px;
+  margin-right: 32px;
+}
+.crypto-value {
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 24px;
+}
